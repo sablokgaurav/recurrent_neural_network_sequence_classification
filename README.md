@@ -1,5 +1,5 @@
 # recurrent_neural_network__sequence_classification
-implementing a recurrent neural network for the sequence classification network to identify and train the plant organelles to identify the subset. This recurrent neural network is trained on a specific set of sequences which have the binding site ability to predict the localization and how to improve the model. 
+implementing a recurrent neural network for the sequence classification network to identify and train the plant binding genes to identify the subset. This recurrent neural network is trained on a specific set of sequences which have the binding site ability to predict the localization and how to improve the model. 
 
 Gaurav Sablok \
 Frontiers: https://loop.frontiersin.org/people/33293/overview \
